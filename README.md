@@ -1,3 +1,7 @@
+Victor messing around with LDA
+
+readme from origin:
+
 ONLINE VARIATIONAL BAYES FOR LATENT DIRICHLET ALLOCATION
 
 Matthew D. Hoffman
